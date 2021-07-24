@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Li-Hui-GitHub/frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/wwMark/backend.git
